@@ -1,4 +1,4 @@
-package Collection;
+package Collection.Comparable;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
@@ -10,7 +10,7 @@ public class Pair<T extends Comparable<T>> implements Comparable<Pair<T>> {
     private T right;
 
     @Override
-    public int compareTo(Collection.Pair<T> incoming) {
+    public int compareTo(Pair<T> incoming) {
         return getLeft().compareTo(incoming.getLeft());
     }
 }

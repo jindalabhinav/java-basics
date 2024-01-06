@@ -5,17 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6ffa61c-fd52-4f76-afbe-230582d5046c" name="Changes" comment="Collections and Comparable">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Triple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Iterable/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/Iterable/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collection/TreeSet/TreeSetRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/DivideRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambdas/Function/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambdas/Math/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambdas/Math/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambdas/RunnableBasic/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambdas/RunnableBasic/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambdas/RunnableWithAnonymousClass/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambdas/RunnableWithLambda/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/WorksheetRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Comparable/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Comparable/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +39,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -44,31 +54,47 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Scaler/LLD/java-basics/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Scaler/LLD/MultithreadingInJava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "D:/Scaler/LLD/java-basics/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Collection.Runner">
-    <configuration name="Collection.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Collection.Runner" />
+}]]></component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="DivideRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.DivideRunner" />
       <module name="java-basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Collection.*" />
+          <option name="PATTERN" value="Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lambdas.Function.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lambdas.Function.Runner" />
+      <module name="java-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lambdas.Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,11 +103,37 @@
       </method>
     </configuration>
     <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Runner" />
+      <option name="MAIN_CLASS_NAME" value="Collection.Iterable.Runner" />
       <module name="java-basics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="Collection.Iterable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streams.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Runner" />
+      <module name="java-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorksheetRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.WorksheetRunner" />
+      <module name="java-basics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,8 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Collection.Runner" />
         <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.DivideRunner" />
+        <item itemvalue="Application.WorksheetRunner" />
+        <item itemvalue="Application.Streams.Runner" />
+        <item itemvalue="Application.Lambdas.Function.Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -105,8 +160,20 @@
       <option name="presentableId" value="Default" />
       <updated>1703445244436</updated>
       <workItem from="1703445245431" duration="2423000" />
-      <workItem from="1703582397586" duration="3704000" />
+      <workItem from="1703582397586" duration="15502000" />
+      <workItem from="1704172824481" duration="9090000" />
+      <workItem from="1704274515687" duration="4064000" />
+      <workItem from="1704535045688" duration="1236000" />
     </task>
+    <task id="LOCAL-00001" summary="Collections and Comparable">
+      <option name="closed" value="true" />
+      <created>1703586135685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703586135685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6ffa61c-fd52-4f76-afbe-230582d5046c" name="Changes" comment="Collections and Comparable">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/Iterable/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/Iterable/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collection/TreeSet/TreeSetRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/DivideRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambdas/Function/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambdas/Math/MathOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambdas/Math/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambdas/RunnableBasic/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambdas/RunnableBasic/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambdas/RunnableWithAnonymousClass/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambdas/RunnableWithLambda/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/WorksheetRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Comparable/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collection/Comparable/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,27 +37,27 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Scaler/LLD/MultithreadingInJava",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/Scaler/LLD/java-basics/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Scaler/LLD/MultithreadingInJava&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Scaler/LLD/java-basics/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Runner">
     <configuration name="DivideRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exceptions.DivideRunner" />
@@ -163,7 +146,8 @@
       <workItem from="1703582397586" duration="15502000" />
       <workItem from="1704172824481" duration="9090000" />
       <workItem from="1704274515687" duration="4064000" />
-      <workItem from="1704535045688" duration="1236000" />
+      <workItem from="1704535045688" duration="1826000" />
+      <workItem from="1704565652878" duration="1298000" />
     </task>
     <task id="LOCAL-00001" summary="Collections and Comparable">
       <option name="closed" value="true" />
